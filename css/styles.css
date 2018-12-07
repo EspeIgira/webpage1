@@ -1,0 +1,17 @@
+h1{
+  color:cyan;
+  background-color: beige;
+}
+ul{
+   font-size: 12px;
+   font-style: italic;
+   line-height: 1.6;
+}
+ol{
+  font-size: 12px;
+  font-style: italic;
+  line-height: 1.6;
+}
+p{
+  font-style: italic;
+}
